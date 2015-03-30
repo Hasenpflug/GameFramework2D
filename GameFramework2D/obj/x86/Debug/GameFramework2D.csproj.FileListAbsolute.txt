@@ -1,0 +1,7 @@
+C:\TEMP\GameTemplate2D\GameFramework2D\bin\x86\Debug\GameFramework2D.dll.config
+C:\TEMP\GameTemplate2D\GameFramework2D\bin\x86\Debug\GameFramework2D.dll
+C:\TEMP\GameTemplate2D\GameFramework2D\bin\x86\Debug\GameFramework2D.pdb
+C:\TEMP\GameTemplate2D\GameFramework2D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TEMP\GameTemplate2D\GameFramework2D\obj\x86\Debug\GameFramework2D.dll
+C:\TEMP\GameTemplate2D\GameFramework2D\obj\x86\Debug\GameFramework2D.pdb
+C:\TEMP\GameTemplate2D\GameFramework2D\obj\x86\Debug\GameFramework2D.csprojResolveAssemblyReference.cache
