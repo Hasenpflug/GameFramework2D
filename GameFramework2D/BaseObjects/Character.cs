@@ -71,12 +71,17 @@ namespace GameFramework2D.BaseObjects
 
         public virtual void Stop()
         {
-            position -= velocityFactor * velocity;
+            position -= (velocityFactor * velocity);
         }
 
         public virtual void Bounce()
         {
-            velocityFactor = velocityFactor * (-1);
+           velocityFactor = velocityFactor * (-1);
+        }
+
+        public virtual void Push(Vector2 offset)
+        {
+            position -= offset;
         }
         
         /// <summary>
