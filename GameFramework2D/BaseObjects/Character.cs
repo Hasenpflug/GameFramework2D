@@ -81,7 +81,7 @@ namespace GameFramework2D.BaseObjects
 
         public virtual void Push(Vector2 offset)
         {
-            position -= offset;
+            position += offset;
         }
         
         /// <summary>
